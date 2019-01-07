@@ -1,0 +1,45 @@
+{
+  "name": "hapi_deom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dev.tencent.com/s_auto/hapi_deom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "good": "7",
+    "good-console": "7",
+    "good-file": "6",
+    "good-http": "6",
+    "good-squeeze": "5",
+    "hapi": "^16.7.0",
+    "hapi-auth-jwt2": "7",
+    "hapi-pagination": "1",
+    "hapi-swagger": "^7.10.0",
+    "inert": "4",
+    "joi": "13",
+    "jsonwebtoken": "^8.4.0",
+    "mysql2": "^1.6.4",
+    "package": "^1.0.1",
+    "sequelize": "^4.42.0",
+    "vision": "4",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "chalk": "^2.4.1",
+    "env2": "^2.2.2",
+    "eslint": "^5.11.1",
+    "eslint-plugin-html": "^5.0.0",
+    "my-local-ip": "^1.0.0",
+    "sequelize-cli": "^5.4.0"
+  }
+}
