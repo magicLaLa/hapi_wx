@@ -1,4 +1,4 @@
-# Hapi
+![img](/public/images/cbk5t-bnm69.png)
 
 ## Hapi 使用和开发
 
